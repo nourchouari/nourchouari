@@ -17,7 +17,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nourchouari&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nourchouari&theme=synthwave&hide_border=false)<br/>
-<hr>
 
----
 [![](https://visitcount.itsvg.in/api?id=nourchouari&icon=5&color=10)](https://visitcount.itsvg.in)
