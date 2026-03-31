@@ -1,7 +1,7 @@
 <H1> 🙂 A propos de moi </H1>
 <hr>
 
-💻 Étudiante en BUT informatique à l'IUT de Montreuil.<br> ✨​Créative, organisée et rigoureuse, je suis toujours en quêtes de nouveaux défis!
+💻 Ingénieure apprentie à ESIEE Paris-UGE spécialisé en Réseaux et Sécurité.<br> ✨​Créative, organisée et rigoureuse, je suis toujours en quêtes de nouveaux défis!
 
 <hr>
 
